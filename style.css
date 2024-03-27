@@ -1,0 +1,61 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-image: url('https://img.freepik.com/free-photo/assortment-cinema-elements-red-background-with-copy-space_23-2148457848.jpg?w=1380&t=st=1706244308~exp=1706244908~hmac=94fec165bd5d4733301e9047c4833b2a1f32a24b98ce2440a65f09e3573b45ff'); */
+
+    background-image: url('https://static.standard.co.uk/2022/11/16/10/netflix-s.jpg?crop=8:5,smart&quality=75&auto=webp&width=1024');
+}
+
+
+
+nav{
+    background-color:black;
+    color: azure;
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+.topic{
+    margin-left: 500px;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+
+.box{
+    margin-left: 100px;
+    color:black;
+    width: 500px;
+    padding: 50px;
+    height: 650px;
+    background-color:black;
+    color: azure;
+}
+.fav{
+    color: azure;
+}
+button{
+    background-color: blueviolet;
+    height: 40px;
+    width: 150px;
+    color: azure;
+    letter-spacing: 3px;
+    
+}
+
+button:hover{
+    background-color:  blueviolet;
+    letter-spacing: 10px;
+    width: 300px;
+}
+
+select{
+    width: 300px;
+    height: 40px;
+}
+
